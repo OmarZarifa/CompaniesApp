@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346707338023",
+    "project_id": "companiesapp-74748",
+    "storage_bucket": "companiesapp-74748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346707338023:android:170fd2e6a90db6a9837f02",
+        "android_client_info": {
+          "package_name": "com.example.companiesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3lGR0cvK85MYbf0ncszsE1id262q30WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

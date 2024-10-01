@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "346707338023",
+    "firebase_url": "https://companiesapp-74748-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "companiesapp-74748",
+    "storage_bucket": "companiesapp-74748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346707338023:android:66e03fe63f182a3b837f02",
+        "android_client_info": {
+          "package_name": "com.example.lab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3lGR0cvK85MYbf0ncszsE1id262q30WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
